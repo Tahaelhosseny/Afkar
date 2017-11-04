@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Afkar</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+
+
+    <!-- drawer group menu -->
+
+    <string name="Home">Home</string>
+    <string name="Oservices">Our Services</string>
+    <string name="Offers">offers</string>
+    <string name="About">About Us</string>
+    <string name="contact">contact with us</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">أفكار</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+
+
+    <!-- drawer group menu -->
+
+    <string name="Home">الرئيسيه</string>
+    <string name="Oservices">خدمتنا</string>
+    <string name="Offers">العروض</string>
+    <string name="About">عن الشركه</string>
+    <string name="contact">اتصل بنا</string>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/Home"
+            android:icon="@drawable/home"
+            android:title="@string/Home" />
+        <item
+            android:id="@+id/Oservices"
+            android:icon="@drawable/service"
+            android:title="@string/Oservices" />
+        <item
+            android:id="@+id/Offers"
+            android:icon="@drawable/offer_icon"
+            android:title="@string/Offers" />
+        <item
+            android:id="@+id/About"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="@string/About" />
+        <item
+            android:id="@+id/contact"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="@string/contact" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send" />
+        </menu>
+    </item>
+
+</menu>
